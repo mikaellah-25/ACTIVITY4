@@ -1,4 +1,4 @@
-package ACTIVITY_2;
+package ACTIVITY_4;
 
 public class Student extends Person {
     private String GradeLevel;
