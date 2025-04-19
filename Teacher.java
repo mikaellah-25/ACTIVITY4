@@ -1,4 +1,4 @@
-package ACTIVITY_4;
+package ACTIVITY4;
 
 public class Teacher extends Person {
     private String Subject;
