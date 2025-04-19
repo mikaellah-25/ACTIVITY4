@@ -1,4 +1,4 @@
-package ACTIVITY_4;
+package ACTIVITY4;
 
 public class SchoolTest {
     public static void main(String[] args) {
